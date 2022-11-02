@@ -1,6 +1,6 @@
 package com.trycloud.step_definitions;
 
-import com.cydeo.utilities.Driver;
+import com.trycloud.utilities.Driver;
 import io.cucumber.java.After;
 import io.cucumber.java.Scenario;
 import org.openqa.selenium.OutputType;
