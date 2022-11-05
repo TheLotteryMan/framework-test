@@ -14,7 +14,7 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/features", // from content root
         glue = "com/trycloud/step_definitions", // from source root
         dryRun = false,
-        tags = ""
+        tags = "@verifylogin"
 )
 public class CukesRunner {
 
